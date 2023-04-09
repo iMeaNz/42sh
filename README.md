@@ -9,22 +9,23 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#Mandatory section">Mandatory section</a></li>
-        <li><a href="#Optional section">Optional section</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-  </ol>
+    <summary>Table of Contents</summary>
+    <ol>
+        <li>
+            <a href="#about-the-project">About The Project</a>
+            <ul>
+                <li><a href="#Mandatory section">Mandatory section</a></li>
+                <li><a href="#Optional section">Optional section</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="#getting-started">Getting Started</a>
+            <ul>
+                <li><a href="#installation">Installation</a></li>
+            </ul>
+        </li>
+    </ol>
+</details>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
