@@ -33,7 +33,7 @@
 This project is one of the tree first-year Epitech's final project. The goal is to recreate a Unix Shell.  
 This projects consists of two sections :
 - a mandatory section, which must be completed (see below).
-- an optional section, which is only evaluated if the mandatory section is fully functionnal.  
+- an optional section, which is only evaluated if the mandatory section is fully functionnal.    
 The reference shell for this project is TCSH.
 
 ### Mandatory section
